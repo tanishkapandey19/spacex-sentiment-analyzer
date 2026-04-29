@@ -6,4 +6,4 @@ This project uses Python and Natural Language Processing (NLP) to analyze text d
 * Pandas (Data structured processing)
 * TextBlob (Natural Language Processing & Sentiment Analysis)
 * Jupyter Notebooks
-*
+
